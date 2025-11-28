@@ -1,4 +1,3 @@
-<img width="638" height="92" alt="image" src="https://github.com/user-attachments/assets/1d10e82b-7484-4407-8a37-9dc471f4f6b7" /># OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -95,7 +94,7 @@ cut -d "|" -f 1 file22
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-![Alt text](img/image8.png)
+<img width="638" height="92" alt="image" src="https://github.com/user-attachments/assets/1d10e82b-7484-4407-8a37-9dc471f4f6b7" /># OS-Linux-commands-Shell-scripting
 
 cat < newfile 
 ```
@@ -1037,8 +1036,8 @@ set +x
 ## OUTPUT
 
  ./argshift.sh 1 2 3
- 
- <img width="664" height="533" alt="image" src="https://github.com/user-attachments/assets/4ed516de-89a6-4d09-942f-ccc02ccb5350" />
+ <img width="659" height="108" alt="image" src="https://github.com/user-attachments/assets/7c6c8e3c-4623-479e-a032-9b1402f3417f" />
+
 
 cat > nc.awk
 ```bash
@@ -1069,7 +1068,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-<img width="627" height="198" alt="image" src="https://github.com/user-attachments/assets/799aed30-09c6-48a1-b46d-948a522f876a" />
+ <img width="664" height="533" alt="image" src="https://github.com/user-attachments/assets/4ed516de-89a6-4d09-942f-ccc02ccb5350" />
 
 cat > palindrome.sh
 ```bash
@@ -1097,7 +1096,7 @@ else
 fi
 ```
 ## OUTPUT 
-![Alt text](img/image99.png)
+<img width="627" height="198" alt="image" src="https://github.com/user-attachments/assets/799aed30-09c6-48a1-b46d-948a522f876a" />
 
 # RESULT:
 The Commands are executed successfully.
